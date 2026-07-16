@@ -44,7 +44,8 @@ Since GitHub does not support large **Power BI (.pbix)** files, I have uploaded 
 ## 📊 Executive Dashboard
 
 <p align="center">
-<img src="Images/Executive Dashboard.png" width="900">
+<img width="1292" height="740" alt="Screenshot 2026-06-10 141419" src="https://github.com/user-attachments/assets/db24dcd4-e69e-45f2-b994-371650989479" />
+
 </p>
 
 ---
@@ -52,7 +53,8 @@ Since GitHub does not support large **Power BI (.pbix)** files, I have uploaded 
 ## 👥 Customer Dashboard
 
 <p align="center">
-<img src="Images/Customer Dashboard.png" width="900">
+<img width="1297" height="744" alt="Screenshot 2026-06-10 141448" src="https://github.com/user-attachments/assets/4128b2ec-935b-45f5-8bf2-df3a5e15c13f" />
+
 </p>
 
 ---
@@ -60,7 +62,8 @@ Since GitHub does not support large **Power BI (.pbix)** files, I have uploaded 
 ## 📦 Product Dashboard
 
 <p align="center">
-<img src="Images/Product Dashboard.png" width="900">
+<img width="1300" height="747" alt="Screenshot 2026-06-10 144924" src="https://github.com/user-attachments/assets/73a272be-a055-46bd-ac7d-de8161d410bc" />
+
 </p>
 
 ---
