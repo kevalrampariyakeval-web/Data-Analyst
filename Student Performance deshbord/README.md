@@ -32,9 +32,7 @@ Since GitHub does not support large **Power BI (.pbix)** files, I have uploaded 
 ## 📂 Download Power BI Dashboard
 
 🔗 **Project Link**
-
-> *(Paste your Google Drive link here)*
-
+(https://drive.google.com/drive/folders/1vC9efkeXijAelfiG3FWFqv4jlftCcW1K)
 📌 Download the PBIX file to explore the complete interactive dashboard.
 
 ---
