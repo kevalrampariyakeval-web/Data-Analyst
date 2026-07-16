@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🎓 Student Performance Dashboard 📊
 
 ### 📊 Power BI | Education Analytics | Business Intelligence
