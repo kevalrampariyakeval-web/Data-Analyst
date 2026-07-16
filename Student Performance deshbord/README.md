@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1146" height="657" alt="Screenshot 2026-06-13 002000" src="https://github.com/user-attachments/assets/18dd1300-b11d-4deb-99e3-4f074c5c2e2c" /><div align="center">
 
 # 🎓 Student Performance Dashboard 📊
 
@@ -41,26 +41,25 @@ Since GitHub does not support large **Power BI (.pbix)** files, I have uploaded 
 
 ## 🏠 Overview Dashboard
 
-*(Insert Overview Screenshot)*
+<img width="1142" height="657" alt="Screenshot 2026-06-13 001901" src="https://github.com/user-attachments/assets/adb7d9fd-663f-4b0e-b489-6acd3e1bc748" />
 
 ---
 
 ## 👨‍🎓 Student Analysis
 
-*(Insert Student Analysis Screenshot)*
+<img width="1146" height="660" alt="Screenshot 2026-06-13 001930" src="https://github.com/user-attachments/assets/17749531-3e57-4550-ad30-432fe09df521" />
 
 ---
 
 ## 📊 Behavior Insights
 
-*(Insert Behavior Insights Screenshot)*
+<img width="1146" height="657" alt="Screenshot 2026-06-13 002000" src="https://github.com/user-attachments/assets/f701ba71-2bff-4a7e-96d1-ad64051c5612" />
 
 ---
 
 ## 👤 Student Profile
 
-*(Insert Student Profile Screenshot)*
-
+<img width="1147" height="657" alt="Screenshot 2026-06-13 002021" src="https://github.com/user-attachments/assets/6a747797-f829-4efd-aadc-e04ff1560704" />
 ---
 
 # ✨ Project Features
