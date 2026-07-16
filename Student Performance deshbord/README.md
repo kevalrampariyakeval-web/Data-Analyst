@@ -1,5 +1,3 @@
-<img width="1146" height="657" alt="Screenshot 2026-06-13 002000" src="https://github.com/user-attachments/assets/18dd1300-b11d-4deb-99e3-4f074c5c2e2c" /><div align="center">
-
 # 🎓 Student Performance Dashboard 📊
 
 ### 📊 Power BI | Education Analytics | Business Intelligence
